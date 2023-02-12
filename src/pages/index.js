@@ -6,8 +6,7 @@ const Page = () => {
     <main>
       <h1>Index Page</h1>
       <p>
-        This is an example template for helping you to learn how to build a site
-        powered by Gatsby
+        Hello canroots, Welcome to demo Web App :)
       </p>
       <Link to="/about">About</Link>
     </main>
